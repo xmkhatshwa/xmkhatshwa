@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @xmkhatshwa
+- 👋 Hi, I’m Xola Mkhatshwa
 - 👀 I’m interested in web and mobile development
 - 🌱 I’m currently learning NEXT JS
-- 💞️ I’m looking to collaborate on web and mobile development using angular or react
+- 💞️ I’m looking to collaborate on web and mobile development using Next JS
 - 📫 How to reach me https://www.facebook.com/xola.mkhatshwa.5/
 
 <!---
