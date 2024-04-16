@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and mobile development
 - 🌱 I’m currently learning NEXT JS
 - 💞️ I’m looking to collaborate on web and mobile development using Next JS
-- 📫 How to reach me https://www.xolamkhatshwa.com
+- 📫 How to reach me https://xolamkhatshwa.com/
 
 <!---
 xmkhatshwa/xmkhatshwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
